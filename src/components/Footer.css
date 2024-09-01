@@ -1,0 +1,27 @@
+
+/* Footer.css */
+
+.footer {
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .icon-link {
+    color: #fff;
+    transition: color 0.3s;
+  }
+  
+  .icon-link:hover {
+    color: #aaa;
+  }
+  
+  .footer-text {
+    margin-top: 10px;
+  }

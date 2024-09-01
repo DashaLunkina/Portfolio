@@ -1,0 +1,25 @@
+/* Main.css */
+.main-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border-top: 4px solid #fff;
+    border-bottom: 4px solid #fff; /* Синяя нижняя граница */
+
+  }
+  
+  .section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #19165a;
+    border-radius: 8px;
+  }
+
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
