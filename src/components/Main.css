@@ -1,25 +1,24 @@
-/* Main.css */
 .main-container {
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    border-top: 4px solid #fff;
-    border-bottom: 4px solid #fff; /* Синяя нижняя граница */
+  padding: 20px;
+}
 
-  }
-  
-  .section {
-    padding: 20px;
-    margin-bottom: 20px;
-    background-color: #19165a;
-    border-radius: 8px;
-  }
+.section {
+  margin-bottom: 20px;
+}
 
-  
-  h2 {
-    margin-bottom: 10px;
-  }
-  
-  p {
-    margin: 0;
-  }
-  
+h2 {
+  color: #333;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+}
+
+.avatar {
+  width: 150px;   /* Ширина аватара */
+  height: 150px;  /* Высота аватара */
+  border-radius: 50%; /* Скругление углов для создания круглого изображения */
+  margin-bottom: 10px; /* Отступ снизу */
+}
+

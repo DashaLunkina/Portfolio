@@ -1,5 +1,5 @@
 import React from 'react';
-import './Main.css';
+import './Main.css'; // Не забудьте про стили, если они у вас есть
 
 const Main = () => {
   return (
@@ -10,6 +10,12 @@ const Main = () => {
       </section>
       <section className="section">
         <h2>About Us</h2>
+        {/* Используем аватар по ссылке */}
+        <img 
+          src="https://img.freepik.com/free-vector/cheerful-girl-in-cute-yellow-dresses_24877-81517.jpg" 
+          alt="avatar" 
+          className="avatar" 
+        />
         <p>Learn more about our history, team, and what drives us to do what we do.</p>
       </section>
       <section className="section">
